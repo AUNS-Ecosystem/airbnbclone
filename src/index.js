@@ -11,7 +11,7 @@ import { NotificationProvider } from 'web3uikit';
 
 ReactDOM.render(
   <React.StrictMode>
-    <MoralisProvider appId="xxx" serverUrl="xxx">
+    <MoralisProvider appId="IbCwZIpf7Fic7gCEpSZAMCYbxAh3eWMb3uzDSMOT" serverUrl="https://gfnnkbvagnih.usemoralis.com:2053/server">
       <NotificationProvider>
       <BrowserRouter>
         <App />

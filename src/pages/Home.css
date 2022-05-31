@@ -30,8 +30,8 @@
 }
 
 .logo{
-  width:10vw;
-  height:calc(10vw*0.3)
+  width:15vw;
+  height:calc(15vw*0.3)
 }
 
 .tabContent {
@@ -84,7 +84,7 @@
 }
 
 .searchButton {
-  background-color: #EB4E5F;
+  background-color: #1f5ebb;
   padding:10px;
   border-radius: 50%;
   transition: transform .4s;
@@ -97,7 +97,7 @@
 
 .randomLocation {
   margin-top: 25vh;
-  color: white;
+  color: rgb(40, 52, 122);
   width: 300px;
   padding-left:100px;
 }
